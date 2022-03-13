@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'es-angular';
+  title = 'Pagina degli studenti della ENGIM';
 }
