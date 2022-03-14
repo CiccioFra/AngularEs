@@ -10,7 +10,7 @@ import { St } from 'src/app/models/st';
 export class StudenteComponent implements OnInit {
   nome = 'nome';
   title = 'Titolo';
-  st: St[] = {
+  st: St = {
     id: 1,
     nome: 'nome-studente'
   };
